@@ -21,3 +21,4 @@ View(theDF)
 
 standardDeviation <- sd(theDF$`Team Strength`)
 print(standardDeviation)
+#50/50
