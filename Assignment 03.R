@@ -6,3 +6,5 @@ summary(DF$trip_distance)
 
 mean(DF$trip_distance)
 mean(DF$total_amount)
+
+#-5 for -, -5 <= 10 90/100
